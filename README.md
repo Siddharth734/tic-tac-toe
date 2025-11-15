@@ -20,6 +20,7 @@ A classic Tic-Tac-Toe game built with React, created while learning from the Rea
 
 ## Code Structure
 
+```
 tic-tac-toe/
 │
 ├── src/
@@ -32,6 +33,7 @@ tic-tac-toe/
 │
 ├── package.json             # Dependencies
 └── vite.config.js           # Vite configuration
+```
 
 ### Components
 
@@ -65,6 +67,7 @@ npm start
 ## Technologies Used
 
 - React (Hooks: useState)
+- Vite (Bulid tool & dev server)
 - JavaScript/JSX
 - CSS
 
